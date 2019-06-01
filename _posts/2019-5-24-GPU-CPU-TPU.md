@@ -28,6 +28,7 @@ Each microprocessor core is a fully functional, in-order core capable of running
 It has two pipelines and ring interconnection.
 
 A comparison between the newly released Xeon phi processor and NVIDIA GeForce GTX 1080
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot (27).png)
 
 The TPU chip
