@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CPU, GPU and TPU in deep learning
+title: Inception Bar and Phishing- A new vulnerability
 ---
 
 Developer James Fischer recently documented a possible phishing attack which works by masking the URL bar of the Chrome for mobile and show a fake URL instead. This new fake bar has been dubbed as the ‘inception bar’.
