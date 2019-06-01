@@ -3,7 +3,6 @@ layout: post
 title: CPU, GPU and TPU in deep learning
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 GPU (Graphical Processing Unit) is one of the most widely used processing unit used in training data models. It is a single processor chip which frees the CPU cycles from jobs of image processing and mathematical computations. For example, a game with a lot of graphics: many shadows to cast, lots of atmospheric effects, various lighting sources, complex textures, etc. All these eat up extra GPU processing. Also, settings at higher resolutions means each single frame needs more such calculations to just display each pixel on that frame. Everything is handled by the GPU. When the GPU cannot remain at par with the CPU, it causes bottlenecks.
 
 Some stark differences between CPU and GPU
@@ -29,7 +28,7 @@ Each microprocessor core is a fully functional, in-order core capable of running
 It has two pipelines and ring interconnection.
 
 A comparison between the newly released Xeon phi processor and NVIDIA GeForce GTX 1080
-![_config.yml]({{ site.baseurl }}/images/screenshot(27).png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot(27).png)
 
 The TPU chip
 

@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a web developer currently in my sophomore year. I love learning and remaining curious.
 
-### More Information
+### My articles
 
-A place to include any other types of information that you'd like to include about yourself.
+I love writing about things that fascinate me. Feel free to contact me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anukritijha246@gmail.com](mailto:anukritijha246@gmail.com)
